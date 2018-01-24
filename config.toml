@@ -1,0 +1,29 @@
+title = "Open Book Technology"
+baseURL = "https://openbooktechnology.com"
+languageCode = "en-us"
+theme = "anake"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = ""
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = ""
+  linkedin = ""
+  featured_image = "pexels-photo-247041.jpeg"
+  background_color_class = "bg-near-black"
+  recent_posts_number = 2
